@@ -18,8 +18,22 @@ function one() {
 
     console.log(website);
 
-    two()
+    // two()
 
 }
 
-one()
+// one()
+
+if (true) {
+    const username = "prerna"
+    if (username ==="prerna") {
+        const website = "youtube"
+        console.log(username + website)
+    }
+    console.log(website)
+}
+
+console.log(username)
+
+
+
